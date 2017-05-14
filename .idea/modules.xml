@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Advanced.iml" filepath="$PROJECT_DIR$/Advanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GreenDao/GreenDao.iml" filepath="$PROJECT_DIR$/GreenDao/GreenDao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MVC/MVC.iml" filepath="$PROJECT_DIR$/MVC/MVC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MVCLesson/MVCLesson.iml" filepath="$PROJECT_DIR$/MVCLesson/MVCLesson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OkHttp3/OkHttp3.iml" filepath="$PROJECT_DIR$/OkHttp3/OkHttp3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SQLite数据库/SQLite数据库.iml" filepath="$PROJECT_DIR$/SQLite数据库/SQLite数据库.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SocketTCP/SocketTCP.iml" filepath="$PROJECT_DIR$/SocketTCP/SocketTCP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SwipeRefreshLayout下拉刷新/SwipeRefreshLayout下拉刷新.iml" filepath="$PROJECT_DIR$/SwipeRefreshLayout下拉刷新/SwipeRefreshLayout下拉刷新.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/多线程/多线程.iml" filepath="$PROJECT_DIR$/多线程/多线程.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/GreenDao" />
+            <option value="$PROJECT_DIR$/MVC" />
+            <option value="$PROJECT_DIR$/MVCLesson" />
+            <option value="$PROJECT_DIR$/OkHttp3" />
+            <option value="$PROJECT_DIR$/SQLite数据库" />
+            <option value="$PROJECT_DIR$/SocketTCP" />
+            <option value="$PROJECT_DIR$/SwipeRefreshLayout下拉刷新" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/多线程" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
